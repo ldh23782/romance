@@ -1,0 +1,12 @@
+><h4>장바구니</h4>
+<fieldset>
+	<legend>장바구니 물품 항목</legend>
+</fieldset>
+<h4>배송주소</h4>
+<fielset>
+	<legend>주소지 선택</legend>
+	</fielset>
+	<h4>결제 시스템</h4>
+	<legend>결제 방식을 선택</legend>
+<h4>주문선택</h4>
+<fieldset>

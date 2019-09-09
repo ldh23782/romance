@@ -1,0 +1,46 @@
+<<!DOCTYPE html>
+<!--form_03.html -->
+<html lang="ko-KR">
+<head>
+	meta:compat
+	<meta charset="UTF-8">
+	<!-- [if lte IE 9]>
+	cc:ie6
+<script src="./ie/htm15shiv-3.7.3/dist/htm15shiv.min,js"></script>
+
+
+
+
+	link:favicon
+	link:touch
+	<title>Document</title><style></style>
+</head>
+<body>
+	<!-- layout -- >
+		<h1>웹기초 이해하기</h1>
+		<h2>form 기능이해하기 3htm15형식에 추가된 기능이해하기</h2>
+     <form action="#" method="get">
+     	<fieldset><legend>자주 사용하는 형식</legend>
+     		<ul>
+     			<li><label for="searchBar"></label>
+     				<input type="text" id="searchBar" name="searchBar" value=""  />
+     				</ul>
+     					</lu>
+
+     	</fieldset>
+     	<fieldset><legend> 아직은 브라우저 제약 많은 형식</fieldset>
+     	<fieldset><legend>사용할 수 있지만, 그기능이 현재 애매한 상태</legend></fieldset>
+
+
+
+
+
+
+
+
+
+     </form>>
+		<!-- script -->
+		<script></script>
+</body>
+</html>	
