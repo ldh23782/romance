@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+
+
+
+.hidden{display:block; overflow: hidden; position:absolute; width:0;height: 0;}
+
+
+#wrap{width: 1900px;height:auto; margin:auto;}
+#headBox{position: relative;width: 100%; height:130px; background-color: #fa4;}
+#unb{width:100%; height:50px;background-color: brown;}
+#gub{position: relative; width:100%; height: 80px;background-color:#f99;}
+#gub>ul{position: absolute;float:left; width:930px; height: 80px;}
+#gub>ul>li{position: absolute;float:left;width:930px; height: 80px; background-color: #ff6}
+
+
+#contBox{width:100%;height:3300px;background-color: #a44;}
+
+.pagescroll{width: 100%;height: 850px;background-color: #444;}
+.media{width: 100%; height:895px; background-color: #7fa;}
+.counter{width:100%;height:850px;background-color: #4ff;}
+.top_button{widows: 100%;height:705px; background-color: #aa4}
+
+
+
+
+
+#footerBox{width:100%; height:130px;background-color: #aa4}
